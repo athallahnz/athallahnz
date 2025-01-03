@@ -1,34 +1,49 @@
-## Welcome to My Profile! 👋
+# Hello, Welcome to my Profile 👋
 
-🌟 Hey there! I'm Atha, a tech enthusiast and lifelong learner.  
-💼 **Expertise**: Web Development, UI/UX Design, and Mobile App Development  
-🔭 **Working on**: Building AnzArt Studio
-👨‍🏫 **I enjoy** creating user-friendly designs and contributing to impactful projects.  
-📫 **Let's connect**: [Gmail](athallahnz57@gmail.com) | [LinkedIn](https://linkedin.com/in/athallahnz) | [GitHub](https://github.com/athallahnz)
+### Hey there!
 
----
+<p>🌟 I'm Atha, a tech enthusiast and lifelong learner</p>
+<p>💼 Expertise: Web Development, UI/UX Design, and Mobile App Development</p>
+<p>🔭 Working on: Building AnzArt Studio</p>
+<p>👨‍🏫 I enjoy creating user-friendly designs and contributing to impactful projects.</p>
+<p>📫 Let's connect: [Gmail](athallahnz57@gmail.com) | [LinkedIn](https://linkedin.com/in/athallahnz) | [GitHub](https://github.com/athallahnz)</p>
 
-### 🔧 Technologies & Tools
-- **Languages**: JavaScript, HTML, CSS, PHP  
-- **Frameworks**: React, React Native, Laravel, Bootstrap, Tailwind CSS  
-- **Mobile Tools**: Expo, React Navigation  
-- **Tools**: Git, Figma, Visual Studio Code  
-- **OS**: Windows  
+<details>
+    <summary>Languages</summary>
+    
+![Languages](https://skillicons.dev/icons?i=php,js,html,css,python)
+</details>
 
----
+<details>
+    <summary>Tools</summary>
+    
+![Tools](https://skillicons.dev/icons?i=github,vscode,mysql)
+</details>
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athallahnz&show_icons=true&theme=dark)
+<details>
+    <summary>Framework</summary>
+    
+![Frameworks](https://skillicons.dev/icons?i=laravel,bootstrap,react)
+</details>
 
----
+<details>
+    <summary>Operating System</summary>
+    
+![Operating Systems](https://skillicons.dev/icons?i=windows)
+</details>
+<br>
+<br>
 
-### 🌱 Currently Learning
-- React Native with Expo  
-- Advanced Navigation Patterns with React Navigation  
-- Laravel Advanced Features  
-- Optimizing Frontend Performance  
-- API Development and Integrations  
+# Statistics 📊
 
----
+<div style="display: flex; justify-content: space-between; margin-bottom: 0.4rem;" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=athallahnz&show_icons=true&theme=radical" alt="athallahnz Github Stats" style="width:48%;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=athallahnz&theme=radical" alt="athallahnz Github Streak" style="width:51%;"/>
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=athallahnz&theme=rogue" alt="athallahnz Activity Graph" style="width:100%;"/>
+</div>
+<br>
+<br>
 
-⚡ **Fun Fact**: I’m also passionate about photography and enjoy exploring different styles of visual storytelling!
+<p>⚡ Fun Fact I am a photographer and web developer working on Laravel 10 applications, specializing in management systems for mosques. I also enjoy cinematic video creation and video editing.</p>
