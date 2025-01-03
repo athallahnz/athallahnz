@@ -2,7 +2,7 @@
 
 🌟 Hey there! I'm Atha, a tech enthusiast and lifelong learner.  
 💼 **Expertise**: Web Development, UI/UX Design, and Mobile App Development  
-🔭 **Working on**: Building interactive and responsive web and mobile applications  
+🔭 **Working on**: Building AnzArt Studio
 👨‍🏫 **I enjoy** creating user-friendly designs and contributing to impactful projects.  
 📫 **Let's connect**: [Gmail](athallahnz57@gmail.com) | [LinkedIn](https://linkedin.com/in/athallahnz) | [GitHub](https://github.com/athallahnz)
 
