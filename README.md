@@ -4,7 +4,7 @@
 💼 **Expertise**: Web Development, UI/UX Design, and Mobile App Development  
 🔭 **Working on**: Building interactive and responsive web and mobile applications  
 👨‍🏫 **I enjoy** creating user-friendly designs and contributing to impactful projects.  
-📫 **Let's connect**: [athallahnz57@gmail.com] | [LinkedIn](https://linkedin.com/in/athallahnz) | [GitHub](https://github.com/athallahnz)
+📫 **Let's connect**: [Gmail](athallahnz57@gmail.com) | [LinkedIn](https://linkedin.com/in/athallahnz) | [GitHub](https://github.com/athallahnz)
 
 ---
 
