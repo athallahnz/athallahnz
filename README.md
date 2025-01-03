@@ -1,7 +1,5 @@
 # Hello, Welcome to my Profile 👋
 
-### Hey there!
-
 <p>🌟 I'm Atha, a tech enthusiast and lifelong learner</p>
 <p>💼 Expertise: Web Development, UI/UX Design, and Mobile App Development</p>
 <p>🔭 Working on: Building AnzArt Studio</p>
