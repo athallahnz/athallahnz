@@ -4,7 +4,11 @@
 <p>💼 Expertise: Web Development, UI/UX Design, and Mobile App Development</p>
 <p>🔭 Working on: Building AnzArt Studio</p>
 <p>👨‍🏫 I enjoy creating user-friendly designs and contributing to impactful projects.</p>
-<p>📫 Let's connect: [Gmail](athallahnz57@gmail.com) | [LinkedIn](https://linkedin.com/in/athallahnz) | [GitHub](https://github.com/athallahnz)</p>
+<p>📫 Let's connect: 
+   <a href="mailto:athallahnz57@gmail.com">Gmail</a> | 
+   <a href="https://linkedin.com/in/athallahnz" target="_blank">LinkedIn</a> | 
+   <a href="https://github.com/athallahnz" target="_blank">GitHub</a>
+</p>
 
 <details>
     <summary>Languages</summary>
