@@ -1,7 +1,7 @@
 # Hello, Welcome to my Profile 👋
 
 <p>🌟 I'm Atha, a tech enthusiast and lifelong learner</p>
-<p>💼 Expertise: Web Development, UI/UX Design, and Mobile App Development</p>
+<p>💼 Expertise: Web Development, Mobile App Development, and UI/UX Design </p>
 <p>🔭 Working on: Building AnzArt Studio</p>
 <p>👨‍🏫 I enjoy creating user-friendly designs and contributing to impactful projects.</p>
 <p>📫 Let's connect: 
@@ -10,29 +10,17 @@
    <a href="https://github.com/athallahnz" target="_blank">GitHub</a>
 </p>
 
-<details>
-    <summary>Languages</summary>
-    
-![Languages](https://skillicons.dev/icons?i=php,js,html,css,python)
-</details>
+### 🌐 Languages
+![Languages](https://skillicons.dev/icons?i=php,python,js,html,css)
 
-<details>
-    <summary>Tools</summary>
-    
-![Tools](https://skillicons.dev/icons?i=github,vscode,mysql)
-</details>
+### 🛠️ Tools
+![Tools](https://skillicons.dev/icons?i=github,vscode,mysql,figma)
 
-<details>
-    <summary>Framework</summary>
-    
-![Frameworks](https://skillicons.dev/icons?i=laravel,bootstrap,react)
-</details>
+### 📚 Frameworks
+![Frameworks](https://skillicons.dev/icons?i=laravel,react,bootstrap)
 
-<details>
-    <summary>Operating System</summary>
-    
+### 💻 Operating Systems
 ![Operating Systems](https://skillicons.dev/icons?i=windows)
-</details>
 <br>
 <br>
 
