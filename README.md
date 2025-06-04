@@ -11,7 +11,7 @@
 </p>
 
 ### 🌐 Languages
-![Languages](https://skillicons.dev/icons?i=php,python,js,html,css)
+![Languages](https://skillicons.dev/icons?i=php,python,js)
 
 ### 🛠️ Tools
 ![Tools](https://skillicons.dev/icons?i=github,vscode,mysql,figma)
