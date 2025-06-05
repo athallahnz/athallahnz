@@ -2,7 +2,7 @@
 
 <p>🌟 I'm Atha, a tech enthusiast and lifelong learner</p>
 <p>💼 Expertise: Web Development, Mobile App Development, and UI/UX Design </p>
-<p>🔭 Working on: Building AnzArt Studio</p>
+<p>🔭 Working on: AnzArt Studio</p>
 <p>👨‍🏫 I enjoy creating user-friendly designs and contributing to impactful projects.</p>
 <p>📫 Let's connect: 
    <a href="mailto:athallahnz57@gmail.com">Gmail</a> | 
