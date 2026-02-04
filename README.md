@@ -25,11 +25,6 @@
 <br>
 
 # Statistics 📊
-
-<div style="display: flex; justify-content: space-between; margin-bottom: 0.4rem;" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=athallahnz&show_icons=true&theme=radical" alt="athallahnz Github Stats" style="width:48%;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=athallahnz&theme=radical" alt="athallahnz Github Streak" style="width:51%;"/>
-</div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=athallahnz&theme=rogue" alt="athallahnz Activity Graph" style="width:100%;"/>
 </div>
