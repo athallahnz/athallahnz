@@ -11,13 +11,13 @@
 </p>
 
 ### 🌐 Languages
-![Languages](https://skillicons.dev/icons?i=php,python,js)
+![Languages](https://skillicons.dev/icons?i=php,python,js,ts)
 
 ### 🛠️ Tools
-![Tools](https://skillicons.dev/icons?i=github,vscode,mysql,figma)
+![Tools](https://skillicons.dev/icons?i=github,vscode,mysql,figma,supabase,postman)
 
 ### 📚 Frameworks
-![Frameworks](https://skillicons.dev/icons?i=laravel,react,bootstrap)
+![Frameworks](https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind,bootstrap)
 
 ### 💻 Operating Systems
 ![Operating Systems](https://skillicons.dev/icons?i=windows)
