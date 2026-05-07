@@ -1,14 +1,15 @@
-# Hello, Welcome to my Profile 👋
+# 🚀 Transforming Ideas into Digital Reality
 
-<p>🌟 I'm Atha, a tech enthusiast and lifelong learner</p>
-<p>💼 Expertise: Web Development, Mobile App Development, and UI/UX Design </p>
-<p>🔭 Working on: AnzArt Studio</p>
-<p>👨‍🏫 I enjoy creating user-friendly designs and contributing to impactful projects.</p>
-<p>📫 Let's connect: 
-   <a href="mailto:athallahnz57@gmail.com">Gmail</a> | 
-   <a href="https://linkedin.com/in/athallahnz" target="_blank">LinkedIn</a> | 
-   <a href="https://github.com/athallahnz" target="_blank">GitHub</a>
-</p>
+I'm **Atha**, a Software Engineer specializing in building robust, scalable, and user-centric applications. With a strong foundation in both technical development and visual aesthetics, I craft solutions that are as functional as they are beautiful.
+
+---
+
+### 💻 Professional Profile
+*   **Focus:** Full-stack Development & UI/UX Strategy.
+*   **Current Venture:** Scaling **AnzArt Studio** — transforming complex ideas into high-performance digital products.
+*   **Mission:** Bridging the gap between technical complexity and intuitive user experiences through clean, type-safe code and cinematic design.
+
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/athallahnz) | [Email](mailto:athallahnz57@gmail.com)
 
 ### 🌐 Languages
 ![Languages](https://skillicons.dev/icons?i=php,python,js,ts)
